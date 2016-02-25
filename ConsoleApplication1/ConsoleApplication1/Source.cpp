@@ -3,4 +3,5 @@
 
 int main(int c, TCHAR* arg) {
 	printf(" hello world");
+	printf("world2");
 }
