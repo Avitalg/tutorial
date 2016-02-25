@@ -2,5 +2,5 @@
 #include <tchar.h>
 
 int main(int c, TCHAR* arg) {
-	printf("world");
+	printf("world2");
 }
